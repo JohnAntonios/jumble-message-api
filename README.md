@@ -443,7 +443,7 @@ Response headers:
 | content-type          | text/plain; charset=utf-8     |
 | apigw-requestid       | e_D69gC1SwMEMmA=              |
 
-## Bonus - Rate Limiter
+## Rate Limiter
 
 This is included in the service and is capped at 300 calls every minute.
 
